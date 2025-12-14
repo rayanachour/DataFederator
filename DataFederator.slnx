@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DataFederator.App/DataFederator.App.csproj" />
+    <Project Path="src/DataFederator.Core/DataFederator.Core.csproj" />
+    <Project Path="src/DataFederator.Protocols.Modbus/DataFederator.Protocols.Modbus.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DataFederator.Tests/DataFederator.Tests.csproj" />
+  </Folder>
+</Solution>
